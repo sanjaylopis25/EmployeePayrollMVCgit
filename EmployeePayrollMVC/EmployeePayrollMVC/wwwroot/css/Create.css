@@ -1,0 +1,10 @@
+﻿.body {
+    /*padding-left:400px;*/
+    text-align:center;
+}
+
+.form-group{
+    text-align:start;
+    width:400px;
+    margin-left:360px;
+}
